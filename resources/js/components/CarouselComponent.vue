@@ -24,42 +24,42 @@
                   <!-- The slideshow -->
                   <div class="carousel-inner">
                      <div class="carousel-item active">
-                        <img src="/img/bibi.png" alt="Bibi" style="width:100%;" >
+                        <img src="img/bibi.png" alt="Bibi" style="width:100%;" >
                      </div>
                      <div class="carousel-item">
-                        <img src="/img/sofi2011.png" alt="Sofi 2011" style="width:100%;" >
+                        <img src="img/sofi2011.png" alt="Sofi 2011" style="width:100%;" >
                      </div>
                      <div class="carousel-item">
-                        <img src="/img/sofi2012.png" alt="Sofi 2012" style="width:100%;" >
+                        <img src="img/sofi2012.png" alt="Sofi 2012" style="width:100%;" >
                      </div>
                      <div class="carousel-item">
-                        <img src="/img/sofi2013.png" alt="Sofi 2013" style="width:100%;" >
+                        <img src="img/sofi2013.png" alt="Sofi 2013" style="width:100%;" >
                      </div>
                      <div class="carousel-item">
-                        <img src="/img/sofi2014.png" alt="Sofi 2014" style="width:100%;" >
-                        <div class="carousel-caption">
+                        <img src="img/sofi2014.png" alt="Sofi 2014" style="width:100%;" >
+                        <!-- <div class="carousel-caption">
                           <h3>Leyenda</h3>
                           <p>Podemos agregar texto a algun slide</p>
-                          <a href="https://www.w3schools.com">Incluyendo un hipervínculo...</a>                          
-                        </div>
+                          <a href="https://www.w3schools.com">Incluyendo un hipervínculo...</a>
+                        </div> -->
                      </div>
                      <div class="carousel-item">
-                        <img src="/img/sofi2015.png" alt="Sofi 2015" style="width:100%;" >
+                        <img src="img/sofi2015.png" alt="Sofi 2015" style="width:100%;" >
                      </div>
                      <div class="carousel-item">
-                        <img src="/img/sofi2016.png" alt="Sofi 2016" style="width:100%;" >
+                        <img src="img/sofi2016.png" alt="Sofi 2016" style="width:100%;" >
                      </div>
                      <div class="carousel-item">
-                        <img src="/img/sofi2017.png" alt="Sofi 2017" style="width:100%;" >
+                        <img src="img/sofi2017.png" alt="Sofi 2017" style="width:100%;" >
                      </div>
                      <div class="carousel-item">
-                        <img src="/img/sofi2018.png" alt="Sofi 2018" style="width:100%;" >
+                        <img src="img/sofi2018.png" alt="Sofi 2018" style="width:100%;" >
                      </div>
                      <div class="carousel-item">
-                        <img src="/img/sofi2019.png" alt="Sofi 2019" style="width:100%;" >
+                        <img src="img/sofi2019.png" alt="Sofi 2019" style="width:100%;" >
                      </div>
                      <div class="carousel-item">
-                        <img src="/img/sofi2020.png" alt="Sofi 2020" style="width:100%;" >
+                        <img src="img/sofi2020.png" alt="Sofi 2020" style="width:100%;" >
                      </div>
                   </div>
 

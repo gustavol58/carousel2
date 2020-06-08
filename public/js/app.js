@@ -38274,87 +38274,77 @@ var staticRenderFns = [
           _c("div", { staticClass: "carousel-item active" }, [
             _c("img", {
               staticStyle: { width: "100%" },
-              attrs: { src: "/img/bibi.png", alt: "Bibi" }
+              attrs: { src: "img/bibi.png", alt: "Bibi" }
             })
           ]),
           _vm._v(" "),
           _c("div", { staticClass: "carousel-item" }, [
             _c("img", {
               staticStyle: { width: "100%" },
-              attrs: { src: "/img/sofi2011.png", alt: "Sofi 2011" }
+              attrs: { src: "img/sofi2011.png", alt: "Sofi 2011" }
             })
           ]),
           _vm._v(" "),
           _c("div", { staticClass: "carousel-item" }, [
             _c("img", {
               staticStyle: { width: "100%" },
-              attrs: { src: "/img/sofi2012.png", alt: "Sofi 2012" }
+              attrs: { src: "img/sofi2012.png", alt: "Sofi 2012" }
             })
           ]),
           _vm._v(" "),
           _c("div", { staticClass: "carousel-item" }, [
             _c("img", {
               staticStyle: { width: "100%" },
-              attrs: { src: "/img/sofi2013.png", alt: "Sofi 2013" }
+              attrs: { src: "img/sofi2013.png", alt: "Sofi 2013" }
             })
           ]),
           _vm._v(" "),
           _c("div", { staticClass: "carousel-item" }, [
             _c("img", {
               staticStyle: { width: "100%" },
-              attrs: { src: "/img/sofi2014.png", alt: "Sofi 2014" }
-            }),
-            _vm._v(" "),
-            _c("div", { staticClass: "carousel-caption" }, [
-              _c("h3", [_vm._v("Leyenda")]),
-              _vm._v(" "),
-              _c("p", [_vm._v("Podemos agregar texto a algun slide")]),
-              _vm._v(" "),
-              _c("a", { attrs: { href: "https://www.w3schools.com" } }, [
-                _vm._v("Incluyendo un hipervínculo...")
-              ])
-            ])
-          ]),
-          _vm._v(" "),
-          _c("div", { staticClass: "carousel-item" }, [
-            _c("img", {
-              staticStyle: { width: "100%" },
-              attrs: { src: "/img/sofi2015.png", alt: "Sofi 2015" }
+              attrs: { src: "img/sofi2014.png", alt: "Sofi 2014" }
             })
           ]),
           _vm._v(" "),
           _c("div", { staticClass: "carousel-item" }, [
             _c("img", {
               staticStyle: { width: "100%" },
-              attrs: { src: "/img/sofi2016.png", alt: "Sofi 2016" }
+              attrs: { src: "img/sofi2015.png", alt: "Sofi 2015" }
             })
           ]),
           _vm._v(" "),
           _c("div", { staticClass: "carousel-item" }, [
             _c("img", {
               staticStyle: { width: "100%" },
-              attrs: { src: "/img/sofi2017.png", alt: "Sofi 2017" }
+              attrs: { src: "img/sofi2016.png", alt: "Sofi 2016" }
             })
           ]),
           _vm._v(" "),
           _c("div", { staticClass: "carousel-item" }, [
             _c("img", {
               staticStyle: { width: "100%" },
-              attrs: { src: "/img/sofi2018.png", alt: "Sofi 2018" }
+              attrs: { src: "img/sofi2017.png", alt: "Sofi 2017" }
             })
           ]),
           _vm._v(" "),
           _c("div", { staticClass: "carousel-item" }, [
             _c("img", {
               staticStyle: { width: "100%" },
-              attrs: { src: "/img/sofi2019.png", alt: "Sofi 2019" }
+              attrs: { src: "img/sofi2018.png", alt: "Sofi 2018" }
             })
           ]),
           _vm._v(" "),
           _c("div", { staticClass: "carousel-item" }, [
             _c("img", {
               staticStyle: { width: "100%" },
-              attrs: { src: "/img/sofi2020.png", alt: "Sofi 2020" }
+              attrs: { src: "img/sofi2019.png", alt: "Sofi 2019" }
+            })
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "carousel-item" }, [
+            _c("img", {
+              staticStyle: { width: "100%" },
+              attrs: { src: "img/sofi2020.png", alt: "Sofi 2020" }
             })
           ])
         ]),
